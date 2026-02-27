@@ -185,7 +185,6 @@ When a request links two previously separate contact clusters, the **older one s
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/RohitAllanki04/IdentityReconciliation.git
-cd identity
 ```
 
 ### 2. Create MySQL database
