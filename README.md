@@ -18,9 +18,9 @@ This service exposes a `/identify` endpoint that:
 
 ## 🚀 Live Demo
 
-**Base URL:** `https://your-app-name.onrender.com`
+**Base URL:**  `https://identityreconciliation-1-zofb.onrender.com`
 
-**Endpoint:** `POST /identify`
+**Endpoint:** `POST https://identityreconciliation-1-zofb.onrender.com/identify` (checkout endpoint in postman)
 
 ---
 
